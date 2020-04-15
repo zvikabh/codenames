@@ -146,9 +146,11 @@
 
 .codemaster .red.hidden-word {
   color: #d13030;
+  background-color: #d1303070;
 }
 .codemaster .blue.hidden-word {
   color: #4183cc;
+  background-color: #4183cc70;
 }
 .codemaster .black.hidden-word {
   background: #999;
