@@ -1,6 +1,6 @@
 #game-view,
 .loading {
-  width: 700px;
+  width: 900px;
   margin: 0 auto;
 }
 
@@ -125,7 +125,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  height: 500px;
+  height: 700px;
 }
 
 .board .hidden-word {
@@ -138,6 +138,7 @@
 .cell .word {
   vertical-align: middle;
   display: inline-block;
+  width: 90%;
 }
 
 .cell {
@@ -170,6 +171,10 @@
 .board .black.revealed {
   background: #000000;
   color: #fff;
+}
+.board .black.revealed img {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
 }
 
 #remaining span {

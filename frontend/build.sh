@@ -1,4 +1,4 @@
 #!/bin/bash
 set -ex
 rm -rf ./dist
-parcel build app.tsx game.css lobby.css iguana_icon.jpg
+parcel build app.tsx game.css lobby.css pictures/*.svg
