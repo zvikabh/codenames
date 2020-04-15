@@ -103,32 +103,6 @@ export const Lobby = ({ defaultGameID }) => {
           <TimerSettings timer={timer} setTimer={setTimer} />
 
           <div id="new-game-options">
-            <div id="wordsets">
-              <p className="instruction">You've selected <strong>{selectedWordCount}</strong> words.</p>
-              <div id="default-wordsets">
-                {Object.keys(OriginalWords).map((_label) => (
-                  <WordSetToggle
-                    key={_label}
-                    words={words[_label]}
-                    label={_label}
-                    selected={selectedWordSets.includes(_label)}
-                    onToggle={(e) => toggleWordSet(_label)}></WordSetToggle>
-                ))}
-              </div>
-
-              <CustomWords
-                words={customWordsText}
-                onWordChange = {(w) => {
-                  setCustomWordsText(w);
-                  setWords({...words, 'Custom': (w
-                    .trim()
-                    .split(',')
-                    .map(w => w.trim())
-                    .filter(w => w.length > 0))});
-                }
-                selected = {selectedWordSets.includes("Custom")}
-                onToggle = {(e) => toggleWordSet("Custom")} />
-            </div>
           </div>
         </form>
       </div>
