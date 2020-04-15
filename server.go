@@ -248,7 +248,7 @@ func (s *Server) handleNextGame(rw http.ResponseWriter, req *http.Request) {
 	}
 	wordSet := map[string]bool{}
 	for _, w := range request.WordSet {
-		wordSet[strings.TrimSpace(strings.ToUpper(w))] = true
+		wordSet[strings.TrimSpace(w)] = true
 	}
 	if len(wordSet) > 0 && len(wordSet) < 25 {
 		http.Error(rw, "Need at least 25 words", 400)

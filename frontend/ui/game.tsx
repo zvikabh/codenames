@@ -319,7 +319,7 @@ export class Game extends React.Component {
               }
               onClick={e => this.guess(e, idx, w)}
             >
-              <span className="word">{w}</span>
+              <span className="word"><img src={w} /></span>
             </div>
           ))}
         </div>
