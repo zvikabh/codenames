@@ -132,7 +132,7 @@
   cursor: pointer;
 }
 .board .neutral.revealed {
-  background: #727272;
+  background: #828282;
 }
 
 .cell .word {
