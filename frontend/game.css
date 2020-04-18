@@ -132,7 +132,7 @@
   cursor: pointer;
 }
 .board .neutral.revealed {
-  background: #828282;
+  background: #aaa;
 }
 
 .cell .word {
@@ -154,7 +154,11 @@
   background-color: #4183cc70;
 }
 .codemaster .black.hidden-word {
-  background: #999;
+  background: #777;
+}
+.codemaster .black.hidden-word img {
+  filter: invert(1);
+  -webkit-filter: invert(1);
 }
 .codemaster .cell {
   font-weight: bold;
@@ -173,8 +177,8 @@
   color: #fff;
 }
 .board .black.revealed img {
-  filter: invert(100%);
-  -webkit-filter: invert(100%);
+  filter: invert(1);
+  -webkit-filter: invert(1);
 }
 
 #remaining span {
