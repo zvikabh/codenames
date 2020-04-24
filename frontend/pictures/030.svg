@@ -1,26 +1,83 @@
-<?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3948" viewBox="0 0 490.05 329.02" version="1.0">
-  <g id="g3964" transform="matrix(.69988 0 0 .68703 0 54.67)">
-    <path id="path3966" d="m216.4 67.777c18.72 0 33.89-15.174 33.89-33.888 0-18.717-15.17-33.889-33.89-33.889-18.71 0-33.89 15.172-33.89 33.889 0 18.714 15.18 33.888 33.89 33.888z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3948"
+   viewBox="0 0 490.05 329.02"
+   version="1.0"
+   sodipodi:docname="030.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs955" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
+     id="namedview953"
+     showgrid="false"
+     inkscape:zoom="1.4304663"
+     inkscape:cx="238.81724"
+     inkscape:cy="145.76546"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3948" />
+  <g
+     id="g3964"
+     transform="matrix(.69988 0 0 .68703 0 54.67)">
+    <path
+       id="path3966"
+       d="m216.4 67.777c18.72 0 33.89-15.174 33.89-33.888 0-18.717-15.17-33.889-33.89-33.889-18.71 0-33.89 15.172-33.89 33.889 0 18.714 15.18 33.888 33.89 33.888z" />
   </g>
-  <path id="path3970" d="m174.94 143.15v-14.67c0-31.265-46.96-30.921-46.96 0v59.84h0.09l-44.368 43.55c-4.185 4.11-4.695 4.29-12.913 4.29-0.007 0.01-27.126 0-27.126 0-27.296 0-43.663 24.08-43.663 44.49 0 20.42 16.367 46.22 46.084 46.22h48.32c11.406 0 25.226-4.28 36.636-14.81l141.47-138.46c3.02-2.63 4.7-3.45 9.9-3.45h34.93c16.81 0 40.61-18.71 40.61-45.68 0-26.688-23.97-44.483-41.99-44.542h-55.16c-11.4 0-26.07 4.577-34.82 13.165l-51.05 50.057h0.01z"/>
-  <path id="path3972" d="m213.58 329.02h49.54c13.65 0 14.18-20.61 0-20.61h-25.39l48.3-47.41c10.7-10.52-4.44-25.73-15.82-14.56l-47.58 46.84v-24.68c0.08-13.39-21.1-13.91-21.13 0v48.34c0 7.21 4.93 12.08 12.08 12.08z"/>
-  <path id="path3974" d="m264.16 102.98h49.62c12.08 0 20.2 13.25 20.2 21.15s-5.76 22.65-20.52 22.65h-29.84c-12.63 0-18.23 1.74-25.5 8.88l-142.55 139.93c-5.77 5.67-13.08 7.92-22.477 7.92h-47.009c-12.075 0-22.718-10.03-22.718-23.2s10.149-20.55 20.647-20.55h32.251c9.392 0 15.573-2.63 20.94-7.9l144.96-142.3c5.97-5.85 11.86-6.58 22-6.58z" fill="#fff"/>
-  <path id="path640" d="m358.67 127.74l53.05-17.57c30.07-10.282 14.29-53.701-15.45-43.53l-56.49 19.686 0.03 0.086 18.86 41.318v0.01z"/>
-  <g id="g641" transform="matrix(.69988 0 0 .68703 296.31 38.747)">
-    <path id="path642" d="m216.4 67.777c18.72 0 33.89-15.174 33.89-33.888 0-18.717-15.17-33.889-33.89-33.889-18.71 0-33.89 15.172-33.89 33.889 0 18.714 15.18 33.888 33.89 33.888z"/>
+  <path
+     d="M 260.80078 79.927734 C 249.40078 79.927734 234.73047 84.50575 225.98047 93.09375 L 174.93945 143.14062 L 174.93945 128.48047 C 174.93945 97.215469 127.98047 97.559469 127.98047 128.48047 L 127.98047 188.32031 L 128.07031 188.32031 L 83.701172 231.86914 C 79.516172 235.97914 79.007063 236.16016 70.789062 236.16016 C 70.782062 236.17016 43.662109 236.16016 43.662109 236.16016 C 16.366109 236.16016 -9.4739031e-15 260.24039 0 280.65039 C 0 301.07039 16.366984 326.86914 46.083984 326.86914 L 94.404297 326.86914 C 105.8103 326.86914 119.62906 322.59055 131.03906 312.06055 L 272.50977 173.59961 C 275.52977 170.96961 277.21016 170.15039 282.41016 170.15039 L 317.33984 170.15039 C 334.14984 170.15039 357.94922 151.4407 357.94922 124.4707 C 357.94922 97.782703 333.98094 79.986734 315.96094 79.927734 L 260.80078 79.927734 z M 264.16016 102.98047 L 264.16406 102.98047 L 313.7793 102.98047 C 325.8593 102.98047 333.98047 116.23086 333.98047 124.13086 C 333.98047 132.03086 328.22094 146.7793 313.46094 146.7793 L 283.61914 146.7793 C 270.98914 146.7793 265.38914 148.52016 258.11914 155.66016 L 115.57031 295.58984 C 109.80031 301.25984 102.49075 303.50977 93.09375 303.50977 L 46.083984 303.50977 C 34.008984 303.50977 23.365234 293.48055 23.365234 280.31055 C 23.365234 267.14055 33.515672 259.75977 44.013672 259.75977 L 76.263672 259.75977 C 85.655672 259.75977 91.836125 257.12937 97.203125 251.85938 L 242.16406 109.56055 C 248.13326 103.71134 254.02268 102.98067 264.16016 102.98047 z "
+     id="path3970" />
+  <path
+     id="path3972"
+     d="m213.58 329.02h49.54c13.65 0 14.18-20.61 0-20.61h-25.39l48.3-47.41c10.7-10.52-4.44-25.73-15.82-14.56l-47.58 46.84v-24.68c0.08-13.39-21.1-13.91-21.13 0v48.34c0 7.21 4.93 12.08 12.08 12.08z" />
+  <path
+     id="path640"
+     d="m358.67 127.74l53.05-17.57c30.07-10.282 14.29-53.701-15.45-43.53l-56.49 19.686 0.03 0.086 18.86 41.318v0.01z" />
+  <g
+     id="g641"
+     transform="matrix(.69988 0 0 .68703 296.31 38.747)">
+    <path
+       id="path642"
+       d="m216.4 67.777c18.72 0 33.89-15.174 33.89-33.888 0-18.717-15.17-33.889-33.89-33.889-18.71 0-33.89 15.172-33.89 33.889 0 18.714 15.18 33.888 33.89 33.888z" />
   </g>
-  <path id="path644" d="m415.25 104.6l61.41 2.02c17.81-0.54 17.77-16.97 0.35-17.487l-60.94-1.906v0.034l-0.82 17.339z"/>
-  <path id="path645" d="m411.97 73.158l-0.03-60.317c-1.15-17.459-17.88-16.862-17.81 0.253l0.12 59.846h0.04l17.68 0.218z"/>
-  <path id="path668" d="m356.32 85.531l-40.85-33.202-32.31-10.299c-21.98-11.295-25.45 12.44-7.89 17.288l30.32 9.471 31.82 33.711 18.91-16.968v-0.001z"/>
-  <metadata>
+  <path
+     id="path644"
+     d="m415.25 104.6l61.41 2.02c17.81-0.54 17.77-16.97 0.35-17.487l-60.94-1.906v0.034l-0.82 17.339z" />
+  <path
+     id="path645"
+     d="m411.97 73.158l-0.03-60.317c-1.15-17.459-17.88-16.862-17.81 0.253l0.12 59.846h0.04l17.68 0.218z" />
+  <path
+     id="path668"
+     d="m356.32 85.531l-40.85-33.202-32.31-10.299c-21.98-11.295-25.45 12.44-7.89 17.288l30.32 9.471 31.82 33.711 18.91-16.968v-0.001z" />
+  <metadata
+     id="metadata950">
     <rdf:RDF>
       <cc:Work>
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
         <dc:publisher>
-          <cc:Agent rdf:about="http://openclipart.org/">
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
@@ -46,10 +103,14 @@
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
