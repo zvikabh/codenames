@@ -158,10 +158,7 @@
 }
 .codemaster .black.hidden-word {
   background: #777;
-}
-.codemaster .black.hidden-word img {
-  filter: invert(1);
-  -webkit-filter: invert(1);
+  outline: 10px solid black;
 }
 .codemaster .cell {
   font-weight: bold;
@@ -178,10 +175,7 @@
 .board .black.revealed {
   background: #000000;
   color: #fff;
-}
-.board .black.revealed img {
-  filter: invert(1);
-  -webkit-filter: invert(1);
+  outline: 10px solid black;
 }
 
 #remaining span {
