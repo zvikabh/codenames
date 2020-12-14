@@ -16,7 +16,7 @@ The reposotiry includes a Dockerfile for building a docker image of this app.
 docker build . -t codenames-pictures:latest
 ```
 
-The following command will launch the docker image:
+The following command will launch a docker image running the latest submitted version (from Docker Hub):
 
 ```
 docker run --name codenames_server --rm -p 9091:9091 -d zvikabh/codenames-pictures
