@@ -13,13 +13,13 @@ A hosted version of the app is available at [http://18.188.243.7](http://18.188.
 The reposotiry includes a Dockerfile for building a docker image of this app.
 
 ```
-docker build . -t codenames:latest
+docker build . -t codenames-pictures:latest
 ```
 
 The following command will launch the docker image:
 
 ```
-docker run --name codenames_server --rm -p 9091:9091 -d codenames
+docker run --name codenames_server --rm -p 9091:9091 -d zvikabh/codenames-pictures
 ```
 
 The following command will kill the docker instance:
